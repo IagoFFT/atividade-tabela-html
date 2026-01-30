@@ -1,0 +1,32 @@
+body {
+    background-color: beige;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: left;
+    
+}
+th {
+    background-color: rgb(174, 255, 107);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 10px;
+
+}
+
+td {
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-size: 40px;
+}
+
+.titulo {
+        font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+        text-align: center;
+        font-size: 30px;
+}
